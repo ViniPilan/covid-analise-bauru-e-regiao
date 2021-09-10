@@ -1,4 +1,4 @@
-# Projeto visualização de dados com dashboard Power Bi - Covid-19 nas cidades Bauru e região
+# Dashboard Power Bi - Covid-19 nas cidades Bauru e região
 
 ## Objetivo
 Criar um Dashboard que mostre um pouco da situação do covid-19 em algumas cidades da região de Bauru, interior de São Paulo. 
