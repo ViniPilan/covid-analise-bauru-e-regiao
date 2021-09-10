@@ -1,17 +1,21 @@
-# Projeto análise de dados - Covid-19 nas cidades Bauru e região
+# Projeto visualização de dados com dashboard Power Bi - Covid-19 nas cidades Bauru e região
 
 ## Objetivo
+Criar um Dashboard que mostre um pouco da situação do covid-19 em algumas cidades da região de Bauru, interior de São Paulo. 
 
-Fazer uma análise da situação do covid-19 em algumas cidades da região de Bauru, interior de São Paulo. A obtenção dos dados voláteis, a análise e a exibição dos dados serão feitas de forma automática.
+## Sobre o Dashboard
+O dashboard desenvolvido contém as informações: **nome do munícipio, população, total de casos, total de óbitos, total de recuperados, relação entre população infectada e não infectada, evolução do número de casos e óbitos novos por dia**. O mesmo foi criado através do software Power Bi, utilizando os dados contidos na tabela "cidades.csv", e pode ser acessado clicando [aqui](https://app.powerbi.com/view?r=eyJrIjoiNGVjYjVkM2MtMTVhMi00MDA3LTg0NmMtMzI3ZWJiZTk1OTA4IiwidCI6IjdiYjIwZjJkLTUwNzItNDI2Ni1hNGE1LTJhZjcxYzNjNzBhMSJ9&pageName=ReportSection).
 
-## Metas de desenvolvimento
-1. Obter os dados do [site do governo](https://qsprod.saude.gov.br/extensions/covid-19_html/covid-19_html.html) e colocá-los na pasta do projeto com o nome 'export' em formato .csv;
-2. De forma automática, limpar e filtrar os dados obtidos na meta 1 gerando uma nova tabela que será lida para criação do DashBoard, utilizando Power Bi;
-3. Obter os dados sobre a população de cada município abrangido na análise. Separar essas informações em uma tabela a parte;
-4. No Power Bi, desenvolver o dashboard com as seguintes informações: nome do município, população, número de casos, número de óbitos, evolução do número de casos e óbitos por mês (durante todo o período). 
+## Sobre os dados - Origem
+1. Os dados originais foram obtidos no [site do governo](https://qsprod.saude.gov.br/extensions/covid-19_html/covid-19_html.html) e colocados na pasta "Dados" do projeto, com o nome "export.csv";
+2. Os dados lidos pelo Power Bi estão contidos em "cidades.csv", arquivo criado com a execução do script "clean_and_filter.py", que faz a limpeza e filtragem dos dados originais contidos no "export.csv" de acordo com as cidades abrangidas nessa análise.
 
-## Sobre os dados - Período e origem
-Os dados utilizados nessa pesquisa foram obtidos diretamente no site do governo a respeito da pandemia no brasil. O período abrangido é desde o início até os dias atuais. Para acessar o site mencionado, clique [aqui](https://qsprod.saude.gov.br/extensions/covid-19_html/covid-19_html.html) ou acesse https://qsprod.saude.gov.br/extensions/covid-19_html/covid-19_html.html.
+*Vale ressaltar que, como o arquivo "export.csv" é muito grande, o mesmo não pôde ser armazenado nesse repositório. Portanto, para ter acesso a esses dados é necessário realizar o download novamente através do link expresso no tópico 01 logo acima*.
+
+## Sobre os dados - Período e estrutura
+Os dados utilizados nessa pesquisa foram obtidos diretamente no site do governo a respeito da pandemia no brasil. O período abrangido é desde o início até os dias atuais desse documento. A tabela tem originalmente as seguintes colunas: **Info, UF, Município, Metro/Interior, Data, Casos Acumulados, Casos Novos, Óbitos Acumulados e Óbitos novos**.
+
+Para acessar o site mencionado e fazer o download dos dados utilizados, clique [aqui](https://qsprod.saude.gov.br/extensions/covid-19_html/covid-19_html.html) ou acesse https://qsprod.saude.gov.br/extensions/covid-19_html/covid-19_html.html.
 
 ## Cidades abrangidas na análise
 - Bauru
@@ -23,3 +27,10 @@ Os dados utilizados nessa pesquisa foram obtidos diretamente no site do governo 
 - Agudos
 - Barra Bonita
 - Itatinga
+
+## Sobre o autor do projeto
+Me chamo Vinícius Pilan, sou estudante de Ciência da Computação pela Universidade Estadual Paulista 'Júlio de Mesquita Filho' UNESP, no campus de Bauru. Pretendo me especializar na área de dados e este projeto faz parte do meu portifólio de projetos. Para saber mais sobre mim e outros projetos de autoria minha, deixo algumas das minhas redes sociais:
+
+- **Linkedin:** Vinícius de Paula Pilan
+- **GitHub:** [ViniPilan](https://github.com/ViniPilan)
+- **GitHub do projeto:** [ViniPilan/moedas](https://github.com/ViniPilan/covid-analise-bauru-e-regiao).
