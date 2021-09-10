@@ -8,7 +8,7 @@ O dashboard desenvolvido contém as informações: **nome do munícipio, popula�
 
 
 Exemplo dashboard com cidade Bauru selecionada:
-![Imagem](exemplo-bauru)
+![Imagem](exemplo-bauru.png)
 
 ## Sobre os dados - Origem
 1. Os dados originais foram obtidos no [site do governo](https://qsprod.saude.gov.br/extensions/covid-19_html/covid-19_html.html) e colocados na pasta "Dados" do projeto, com o nome "export.csv";
