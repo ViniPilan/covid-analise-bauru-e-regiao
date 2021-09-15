@@ -38,4 +38,4 @@ Me chamo Vinícius Pilan, sou estudante de Ciência da Computação pela Univers
 
 - **Linkedin:** Vinícius de Paula Pilan
 - **GitHub:** [ViniPilan](https://github.com/ViniPilan)
-- **GitHub do projeto:** [ViniPilan/moedas](https://github.com/ViniPilan/covid-analise-bauru-e-regiao).
+- **GitHub do projeto:** [ViniPilan/covid-analise-bauru-e-regiao](https://github.com/ViniPilan/covid-analise-bauru-e-regiao).
