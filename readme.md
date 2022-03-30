@@ -1,7 +1,7 @@
 # Dashboard Power Bi - Covid-19 nas cidades Bauru e região
 
 ## Objetivo
-Criar um Dashboard que mostre um pouco da situação do covid-19 em algumas cidades da região de Bauru, interior de São Paulo. 
+Criar um Dashboard para análise da situação do covid-19 em algumas cidades da região de Bauru, interior de São Paulo durante o período de 27/03/2020 a 08/09/2021 (dia que o projeto foi finalizado). 
 
 ## Cidades abrangidas na análise
 - Bauru
@@ -28,7 +28,7 @@ Exemplo dashboard com cidade Bauru selecionada:
 *Vale ressaltar que, como o arquivo "export.csv" é muito grande, o mesmo não pôde ser armazenado nesse repositório. Portanto, para ter acesso a esses dados é necessário realizar o download novamente através do link https://qsprod.saude.gov.br/extensions/covid-19_html/covid-19_html.html*.
 
 ## Sobre os dados - Período e estrutura
-Os dados utilizados nessa pesquisa foram obtidos diretamente no site do governo a respeito da pandemia no brasil. O período abrangido é desde o início até os dias atuais desse documento. A tabela tem originalmente as seguintes colunas: **Info, UF, Município, Metro/Interior, Data, Casos Acumulados, Casos Novos, Óbitos Acumulados e Óbitos novos**.
+Os dados utilizados nessa pesquisa foram obtidos diretamente no site do governo a respeito da pandemia no brasil. O período abrangido é desde o início até os dias atuais desse documento (08/09/2021). A tabela tem originalmente as seguintes colunas: **Info, UF, Município, Metro/Interior, Data, Casos Acumulados, Casos Novos, Óbitos Acumulados e Óbitos novos**.
 
 Para acessar o site mencionado e fazer o download dos dados utilizados, clique [aqui](https://qsprod.saude.gov.br/extensions/covid-19_html/covid-19_html.html) ou acesse https://qsprod.saude.gov.br/extensions/covid-19_html/covid-19_html.html.
 
