@@ -1,7 +1,7 @@
 # Dashboard Power Bi - Covid-19 nas cidades Bauru e região
 
 ## Objetivo
-Criar um Dashboard para análise da situação do covid-19 em algumas cidades da região de Bauru, interior de São Paulo durante o período de 27/03/2020 a 08/09/2021 (dia que o projeto foi finalizado). 
+Criar um Dashboard para análise da situação do covid-19 em algumas cidades da região de Bauru, interior de São Paulo, durante o período de 27/03/2020 a 08/09/2021 (dia que o projeto foi finalizado). 
 
 ## Cidades abrangidas na análise
 - Bauru
