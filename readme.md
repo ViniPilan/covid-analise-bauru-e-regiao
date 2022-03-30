@@ -3,7 +3,7 @@
 ## Objetivo
 Criar um Dashboard para análise da situação do covid-19 em algumas cidades da região de Bauru, interior de São Paulo, durante o período de 27/03/2020 a 08/09/2021 (dia que o projeto foi finalizado). 
 
-<img src="covid_img.jpg" alt="drawing" width="1280"/>
+<img src="covid_img.jpg" alt="drawing" width="860"/>
 
 ## Cidades abrangidas na análise
 - Bauru
