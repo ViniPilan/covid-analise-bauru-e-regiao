@@ -36,8 +36,14 @@ Para acessar o site mencionado e fazer o download dos dados utilizados, clique [
 
 
 ## Sobre o autor do projeto
-Me chamo Vinícius Pilan, sou estudante de Ciência da Computação pela Universidade Estadual Paulista 'Júlio de Mesquita Filho' UNESP, no campus de Bauru. Pretendo me especializar na área de dados e este projeto faz parte do meu portifólio de projetos. Para saber mais sobre mim e outros projetos de autoria minha, deixo algumas das minhas redes sociais:
+Me chamo Vinícius, sou fascinado pela ciência de dados e encontrei nessa área uma paixão. Busco aprender constantemente 
+para alcançar autoridade como Cientista de Dados profissional e atingir este que é meu objetivo de carreira.
 
-- **Linkedin:** Vinícius de Paula Pilan
-- **GitHub:** [ViniPilan](https://github.com/ViniPilan)
-- **GitHub do projeto:** [ViniPilan/covid-analise-bauru-e-regiao](https://github.com/ViniPilan/covid-analise-bauru-e-regiao).
+Estudo Ciência da Computação na UNESP Bauru (estou no último ano do curso, tenho horários bastante 
+flexíveis) e venho estudando ciência de dados para conseguir me consolidar no mercado.
+
+Já realizei cursos, adquiri certificações e desenvolvi alguns projetos que envolvem e misturam conceitos como Python, análise e visualização de dados, Machine Learning (classificação, regressão, otimização, 
+agrupamento) e SQL.
+
+Tenho um site pessoal que contém mais informações sobre mim, minhas principais certificações e projetos:
+https://sites.google.com/view/vinicius-pilan/
